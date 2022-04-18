@@ -1,0 +1,2 @@
+# studentManagment
+react-native
